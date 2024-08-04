@@ -10,15 +10,15 @@
 <br>
 
 <h1>Features</h1>
-<p style="font-size: 20px;">
-- **Home**: Introduction and a brief overview of my professional profile.<br>
-- **About**: Information about my background, skills, and journey.<br>
-- **Work**: Showcase of my projects with descriptions and links.<br>
-- **Contact**: Form to send an email directly to me.<br>
-- **Social Media Links**: Icons linking to my social media profiles.<br>
-- **Download Resume Button**: Download my resume.<br>
-- **Mail Me Button**: Open the default email client to send me an email.
-</p>
+<ul style="font-size: 20px;">
+  <li><strong>Home</strong>: Introduction and a brief overview of my professional profile.</li>
+  <li><strong>About</strong>: Information about my background, skills, and journey.</li>
+  <li><strong>Work</strong>: Showcase of my projects with descriptions and links.</li>
+  <li><strong>Contact</strong>: Form to send an email directly to me.</li>
+  <li><strong>Social Media Links</strong>: Icons linking to my social media profiles.</li>
+  <li><strong>Download Resume Button</strong>: Download my resume.</li>
+  <li><strong>Mail Me Button</strong>: Open the default email client to send me an email.</li>
+</ul>
 
 <br>
 <br>
@@ -34,8 +34,8 @@
             font-family: Consolas, 'Courier New', monospace;
             font-size: 14px;">
         <pre id="code-example">
-      git clone https://github.com/sujalPatel6021/portfolio-basic-reactjs.git
-      cd portfolio-basic-reactjs
+  git clone https://github.com/sujalPatel6021/portfolio-basic-reactjs.git
+  cd portfolio-basic-reactjs
         </pre>
 </div>
   </li>
@@ -48,9 +48,9 @@
             font-family: Consolas, 'Courier New', monospace;
             font-size: 14px;">
         <pre id="code-example">
-npm install
-&nbsp;&nbsp;&nbsp;# or
-yarn install
+ npm install
+ &nbsp;&nbsp;&nbsp;# or
+ yarn install
         </pre>
 </div>
   </li>

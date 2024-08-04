@@ -22,7 +22,17 @@
 
 <br>
 <br>
-
+<h1>Getting Started</h1>
+<p style="font-size: 18px;">These instructions will help you set up and run the project on your local machine.</p>
+<h2>Prerequisites</h2>
+<p style="font-size: 16px;">
+  <ul>
+    <li>React.js</li>
+    <li>npm (Node Package Manager) or yarn</li>
+  </ul>
+</p>
+<br>
+<br>
 <h1>Installation</h1>
 <ol style="font-size: 18px;">
   <li>Clone the repository:
@@ -54,4 +64,22 @@
         </pre>
 </div>
   </li>
+ <li>Start the server:
+    <div style="position: relative;
+            background-color: #f5f5f5;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-family: Consolas, 'Courier New', monospace;
+            font-size: 14px;">
+        <pre id="code-example">
+ npm start
+ &nbsp;&nbsp;&nbsp;# or
+ yarn start
+        </pre>
+</div>
+  </li>
 </ol>
+<p style="font-size: 16px;">Open your browser and navigate to <code>http://localhost:3000</code> to see the Task Management System app in action.</p>
+<br>
+<br>
